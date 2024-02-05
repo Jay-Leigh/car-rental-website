@@ -7,4 +7,5 @@ update UI with new colours
 new cars
 JDM THEME
 more responsive UI
+changing imgs to webp
 ------- fix some bugs 
